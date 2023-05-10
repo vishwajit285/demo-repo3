@@ -1,2 +1,2 @@
 # demo-repo3
-Demo repo
+This is the demo repo and used for learning purpose.
